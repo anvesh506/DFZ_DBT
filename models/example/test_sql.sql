@@ -1,1 +1,1 @@
-INSERT INTO EMP VALUES (102,'naren');
+
