@@ -1,2 +1,3 @@
 
-select current_date() as dd
+
+SELECT * FROM EMP
